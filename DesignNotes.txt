@@ -1,0 +1,12 @@
+Starting Balance
+
+Loans
+  Interest
+  Risk
+Deposits
+  Interest
+  Fees
+Investments
+  6 Stocks to Pick From...  Set your investment cash level
+Borrowing
+  Amount Borrowed
